@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	height:1300px;
+	
+	background-image:url(../../Images/wheres.jpeg);
+}
+
+#LeftBox{
+	font-size:30px;
+	color:white;
+	background-color:navy;
+	width:20%;
+	height:110%;
+	
+	
+}
+.space{
+	
+	height:250px;
+	
+	
+	
+}
+.leftarrow{
+	
+	float: left;
+	margin-left: 30px;
+}
+
+.rightarrow{
+	
+	float: left;
+	margin-left: 45px;
+}
