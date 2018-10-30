@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+#top{
+		font-size:150%;
+
+
+	}
+		#container{
+			height:auto;
+			width:auto;
+			align-content:center;
+
+
+
+		}
+
+#first{
+	float:left;
+		margin-top:50px;
+		margin-left:50px;
+			height:20%;
+				width:30%;
+}
+
+#second{
+	float:left;
+		margin-top:50px;
+			margin-left:50px;
+				height:20%;
+					width:30%;
+}
+
+#third{
+	float:left;
+	margin-top:50px;
+		margin-left:50px;
+			height:20%;
+				width:30%;
+}
+
+#fourth{
+	float:left;
+	margin-top:100px;
+		margin-left:50px;
+			height:20%;
+				width:30%;
+}
+
+#fifth{
+	float:left;
+	margin-top:100px;
+		margin-left:50px;
+			height:20%;
+				width:30%;
+}
+
+
+		#textxd{
+			background-color:black;
+			width:70%;
+			height:50px;
+			margin-bottom:20px;
+			color:white;
+			font-size:30px;
+		}
+
+			#textxda{
+				background-color:black;
+				width:70%;
+				height:50px;
+				margin-bottom:20px;
+				color:white;
+				font-size:30px;
+			}
+
+			#textxdb{
+				background-color:black;
+				width:70%;
+				height:50px;
+				margin-bottom:20px;
+				color:white;
+				font-size:30px;
+			}
+
+			#textxdc{
+				background-color:black;
+				width:70%;
+				height:50px;
+				margin-bottom:20px;
+				color:white;
+				font-size:30px;
+			}
+
+			#textxdd{
+				background-color:black;
+				width:70%;
+				height:50px;
+				margin-bottom:20px;
+				color:white;
+				font-size:30px;
+			}
